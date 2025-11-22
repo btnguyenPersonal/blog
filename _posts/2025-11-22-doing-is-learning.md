@@ -1,6 +1,3 @@
-title: "doing is learning"
-date: 2025-11-22
-
 I don't think people can learn past a certain point without doing.
 
 doing is the act of falsifying your own bad assumptions.
